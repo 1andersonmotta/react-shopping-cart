@@ -6,6 +6,7 @@ function App() {
   return (
     <div >
       <header >
+        <h1>Hello World</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
