@@ -5,6 +5,10 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+  background-color: #ebebeb;
+}
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
