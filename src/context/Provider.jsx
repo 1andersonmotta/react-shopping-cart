@@ -12,6 +12,6 @@ function Provider({ children }) {
 
 export default Provider;
 
-Provider.propsTypes = {
+Provider.propTypes = {
     children: propTypes.any,
 }.isRequired;
