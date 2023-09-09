@@ -27,7 +27,10 @@ function CartItem({ data }) {
                 <h3 className="cart-item-title">{title}</h3>
                 <h3 className="cart-item-price">{formatCurrency(price, 'BRL')}</h3>
 
-                <button type="button" className="button__remove-item" onClick={handleRemoveItem}>
+                <button
+                    type="button"
+                    className="button__remove-item"
+                    onClick={handleRemoveItem}>
                     <BsCartDashFill />
                 </button>
             </div>
