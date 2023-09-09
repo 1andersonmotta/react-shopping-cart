@@ -26,7 +26,10 @@ function ProductCard({ data }) {
                 <h2 className="card__title">{title}</h2>
             </div>
 
-            <button type="button" className="button__add__cart" onClick={handleAddCart}>
+            <button
+                type="button"
+                className="button__add__cart"
+                onClick={handleAddCart}>
                 <BsFillCartPlusFill />
             </button>
         </section>
