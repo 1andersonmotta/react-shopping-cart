@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# 🛒 Carrinho de Compras
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Se necessário atualize a página para carregamento do GIF](mlreact.gif)
 
-## Available Scripts
+Projeto de criação de uma aplicação com REACT que acessa a API real do Mercado Livre e possibilita Adicionar ou Excluir produtos no carrinho e ja somar ou subtrair o valor Total de forma dinâmica.
 
-In the project directory, you can run:
+## Pré-requisitos
 
-### `npm start`
+Visual Studio Code
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Uso
+Clone o Projeto no GitHub:
+https://github.com/1andersonmotta/reactShoppingCart 
+Abra o projeto com Visual Studio Code e execute:  
+# Instale os pacotes de dependencia do projeto:  
+$ npm install  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Execute a aplicação:  
+$ npm start
 
-### `npm test`
+- A Aplicação deverá abrir em seu navegador e estará pronta para uso.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Ferramentas
 
-### `npm run build`
+- [REACT](https://react.dev/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contribuição
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Se você tem alguma Sugestão enviar para devandersonmotta@gmail.com com o assunto: "contribuição shop cart" ou entre em contato pelo Linkedin.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Licença
 
-### `npm run eject`
+MIT
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✉ Contato
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+email: devandersonmotta@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+linkedin: www.linkedin.com/in/anderson-motta-96b138235
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💡 Objetivo
 
-## Learn More
+Praticar os conceitos de REACT e adquirir conhecimento. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
