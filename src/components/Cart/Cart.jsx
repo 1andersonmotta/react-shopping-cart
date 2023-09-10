@@ -16,7 +16,9 @@ function Cart() {
             <div className="cart-items">
                 {cartItems.map((cartItem) => <CartItem key={cartItem.id} data={cartItem} />)}
             </div>
-            <div className="cart-resume">{formatCurrency(totalPrice, 'BRL')}</div>
+            <div className="cart-resume">
+                {formatCurrency(totalPrice, 'BRL')}
+            </div>
         </section>
     )
 };
