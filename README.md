@@ -43,6 +43,6 @@ linkedin: www.linkedin.com/in/anderson-motta-96b138235
 
 ## 💡 Objetivo
 
-Praticar os conceitos de REACT e adquirir conhecimento. 
+Praticar os conceitos do REACT e adquirir conhecimento. 
 
 
